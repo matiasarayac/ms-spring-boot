@@ -1,0 +1,13 @@
+package cl.matiasaraya.msspringboot;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MsSpringBootApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MsSpringBootApplication.class, args);
+	}
+
+}
